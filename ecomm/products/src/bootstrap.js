@@ -25,5 +25,4 @@ if (process.env.NODE_ENV === 'development') {
 
 // Container app
 
-
 export { mount };
